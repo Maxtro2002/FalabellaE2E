@@ -15,3 +15,7 @@ Acceder a pagina de linio:
 
 Revisar terminos y condiciones:
 ![img_3.png](img_3.png)
+
+
+Reportes serenityBDD sin pruebas por error en escenarios manuales:
+![img_4.png](img_4.png)
